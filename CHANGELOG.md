@@ -3,6 +3,12 @@ Changelog
 
 All notable changes to this project will be documented in this file.
 
+## [3.3.0#blessedgeeks-social] - 2020-12-31
+### Added
+
+- Add a custom suffix to the version number and modify the repository ([h12o](https://github.com/blessedgeeks-social/mastodon/issues/1))
+- Add wakin-'s quoting feature ([h12o](https://github.com/blessedgeeks-social/mastodon/issues/2))
+
 ## [3.3.0] - 2020-12-27
 ### Added
 
