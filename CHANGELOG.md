@@ -3,6 +3,11 @@ Changelog
 
 All notable changes to this project will be documented in this file.
 
+## [3.3.0+20201231#blessedgeeks-social] - 2020-12-31
+### Fixed
+
+- Fix the quoting feature which is not working on the status page ([h12o](https://github.com/blessedgeeks-social/mastodon/issues/4))
+
 ## [3.3.0#blessedgeeks-social] - 2020-12-31
 ### Added
 
