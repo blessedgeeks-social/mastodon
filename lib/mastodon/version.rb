@@ -21,7 +21,7 @@ module Mastodon
     end
 
     def suffix
-      '#blessedgeeks-social'
+      '+20201231#blessedgeeks-social'
     end
 
     def to_a
